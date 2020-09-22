@@ -1,0 +1,24 @@
+MsgBox "Welcome to the Black Learning Wizard..." & vbNewLine & "During this Process you will be Taught how to Use Black..." & vbNewLine & vbNewLine & "OK, now Lets Begin...", vbInformation, "Black Learning Tool"
+MsgBox "Black Learning Tool" & vbNewLine _
+     & "----------------------------------------------------------------" & vbNewLine _
+     & "Using Black is verry Simple, just Press:" & vbNewLine _
+     & "Ctrl+Shift+~ or Ctrl+Shift+` To Activate" & vbNewLine _
+     & "Black." & vbNewLine & vbNewLine _
+     & "Then when your Black screen is Up, you can" & vbNewLine _
+     & "Click and Hold your mouse for 5 secs" & vbNewLine _
+     & "This will Close Black." & vbNewLine & vbNewLine _
+     & "Or you can Press the key Combo(s)" & vbNewLine _
+     & "Ctrl+Shift+~ or Ctrl+Shift+` To" & vbNewLine _
+     & "De-Activate Black. This will Only Hide the" & vbNewLine _
+     & "Black Screen, Not Close Black", , "Black Learning Tool"
+MsgBox "Black Learning Tool" & vbNewLine _
+     & "----------------------------------------------------------------" & vbNewLine _
+     & "OK, are you redy to Launch Black???" & vbNewLine _
+     & "There is the Complete Source to Black in the" & vbNewLine _
+     & "'\Source' Dir, and if you want to create your" & vbNewLine _
+     & "Own Dos Based Setup's..." & vbNewLine & vbNewLine _
+     & "Right Click on 'Setup.bat' >> Click 'Edit" & vbNewLine & vbNewLine _
+     & "Or to You can Create your Own VBS Apps" & vbNewLine _
+     & "The Full Source to this APP / Help Tool" & vbNewLine _
+     & "Is the '\Setup\Setup.vbs' File. Fiew that" & vbNewLine _
+     & "also if you want to Learn how to Use VB Script...", , "Black Learning Tool"
