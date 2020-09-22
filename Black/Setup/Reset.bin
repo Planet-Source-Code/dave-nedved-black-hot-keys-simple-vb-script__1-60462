@@ -1,0 +1,4 @@
+@echo off
+@ren "Source\DEBUG\Black.exe" "Black.bin"
+@ren "Setup\Black.exe" "Black.bin"
+@echo on
